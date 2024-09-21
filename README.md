@@ -1,6 +1,6 @@
 
-<h1 style="color: blue;">Hello Programmers! 👋</h1>
-<h2 style="color: blue;">I am Amritansh Khatri</h2>
+                                                  <h1 style="color: blue;">Hello Programmers! 👋</h1>
+                                                  <h2 style="color: blue;">I am Amritansh Khatri</h2>
 
 ---
 
