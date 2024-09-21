@@ -2,7 +2,7 @@ Hello programmers
 
 ---
 
-- 👋 Hi, I’m @GeekAnsh001
+- 👋 Hi, I’m Amritansh khatri
 - 👀 I’m interested in technology, coding, and game development.
 - 🌱 I’m currently learning Python and web development.
 - 💞️ I’m looking to collaborate on open-source projects and app development.
